@@ -1,0 +1,7 @@
+~$
+\.bak$
+\.svn($|/)
+blib($|/)
+^Makefile(\.old)?$
+\.tar\.gz$
+\.hg
